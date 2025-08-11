@@ -1,0 +1,24 @@
+body{
+    background-color:rgb(57, 209, 209);
+    margin: 325px;
+}
+
+center{
+padding-top:px;
+ background-color:white;
+ padding: 30px;
+ margin: auto;
+ max-width: 400px;
+ border-radius: 10px;
+}
+
+
+label{
+ font-family:Georgia, 'Times New Roman', Times, serif;
+ 
+
+}
+
+p{
+    color: rgb(59, 146, 146);
+}
